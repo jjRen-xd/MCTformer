@@ -1,0 +1,3 @@
+data/*
+*.pth
+saved_model/checkpoint.pth
